@@ -1,0 +1,830 @@
+{
+	"data": [
+		{
+			"id": 937,
+			"name": "1:1 meeting with HRBP",
+			"categoryId": 24,
+			"categoryName": "Meetings (Internal)",
+			"requireComments": false
+		},
+		{
+			"id": 938,
+			"name": "1:1 meeting with Manager",
+			"categoryId": 24,
+			"categoryName": "Meetings (Internal)",
+			"requireComments": false
+		},
+		{
+			"id": 901,
+			"name": "1-1 with client focal point",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 41752,
+			"name": "Applicant asked for a reschedule",
+			"categoryId": 36,
+			"categoryName": "Technical Interview",
+			"requireComments": false
+		},
+		{
+			"id": 41757,
+			"name": "Applicant asked for a reschedule CC",
+			"categoryId": 37,
+			"categoryName": "Code Challenge Guideline",
+			"requireComments": false
+		},
+		{
+			"id": 41762,
+			"name": "Applicant asked for a reschedule HR",
+			"categoryId": 38,
+			"categoryName": "Hacker Rank",
+			"requireComments": false
+		},
+		{
+			"id": 41751,
+			"name": "Applicant didn't show up",
+			"categoryId": 36,
+			"categoryName": "Technical Interview",
+			"requireComments": false
+		},
+		{
+			"id": 41756,
+			"name": "Applicant didn't show up CC",
+			"categoryId": 37,
+			"categoryName": "Code Challenge Guideline",
+			"requireComments": false
+		},
+		{
+			"id": 41761,
+			"name": "Applicant didn't show up HR",
+			"categoryId": 38,
+			"categoryName": "Hacker Rank",
+			"requireComments": false
+		},
+		{
+			"id": 778,
+			"name": "Architecture definition",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 902,
+			"name": "Backlog refinement meeting",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 41753,
+			"name": "BairesDev asked for a reschedule",
+			"categoryId": 36,
+			"categoryName": "Technical Interview",
+			"requireComments": false
+		},
+		{
+			"id": 41758,
+			"name": "BairesDev asked for a reschedule CC",
+			"categoryId": 37,
+			"categoryName": "Code Challenge Guideline",
+			"requireComments": false
+		},
+		{
+			"id": 41763,
+			"name": "BairesDev asked for a reschedule HR",
+			"categoryId": 38,
+			"categoryName": "Hacker Rank",
+			"requireComments": false
+		},
+		{
+			"id": 903,
+			"name": "Blocker removal meeting",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 787,
+			"name": "Bug Fixing",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 41755,
+			"name": "CC Completed",
+			"categoryId": 37,
+			"categoryName": "Code Challenge Guideline",
+			"requireComments": false
+		},
+		{
+			"id": 908,
+			"name": "Client Meeting",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 904,
+			"name": "Client side training",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 779,
+			"name": "Code review",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 973,
+			"name": "Coding",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 899,
+			"name": "Coding challenges review",
+			"categoryId": 22,
+			"categoryName": "Internal Process",
+			"requireComments": false
+		},
+		{
+			"id": 750,
+			"name": "Compensation time",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 795,
+			"name": "Configuration",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 909,
+			"name": "Daily Meeting",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 776,
+			"name": "Daily Progress Report",
+			"categoryId": 18,
+			"categoryName": "Administrative",
+			"requireComments": false
+		},
+		{
+			"id": 792,
+			"name": "DB Automation",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 793,
+			"name": "DB Maintenance",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 800,
+			"name": "Debug",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 780,
+			"name": "Demo preparation",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 781,
+			"name": "Deployment",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 788,
+			"name": "Design",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 873,
+			"name": "Diagrams drawing",
+			"categoryId": 20,
+			"categoryName": "Documentation",
+			"requireComments": false
+		},
+		{
+			"id": 874,
+			"name": "Documentation reading",
+			"categoryId": 20,
+			"categoryName": "Documentation",
+			"requireComments": false
+		},
+		{
+			"id": 4418,
+			"name": "Documentation review",
+			"categoryId": 20,
+			"categoryName": "Documentation",
+			"requireComments": false
+		},
+		{
+			"id": 875,
+			"name": "Documentation writing",
+			"categoryId": 20,
+			"categoryName": "Documentation",
+			"requireComments": false
+		},
+		{
+			"id": 775,
+			"name": "Email revision/answering",
+			"categoryId": 18,
+			"categoryName": "Administrative",
+			"requireComments": false
+		},
+		{
+			"id": 969,
+			"name": "Environment configuration",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 782,
+			"name": "Environment setup",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 965,
+			"name": "Exploratory",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 783,
+			"name": "Features development",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 970,
+			"name": "Functional Testing",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 803,
+			"name": "Graphic Design",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 41760,
+			"name": "HR Completed",
+			"categoryId": 38,
+			"categoryName": "Hacker Rank",
+			"requireComments": false
+		},
+		{
+			"id": 799,
+			"name": "Integration",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 980,
+			"name": "Internal course",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": false
+		},
+		{
+			"id": 879,
+			"name": "Internet issues",
+			"categoryId": 21,
+			"categoryName": "Idle time",
+			"requireComments": false
+		},
+		{
+			"id": 910,
+			"name": "KickOff Meeting",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 796,
+			"name": "Library Upgrade",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 974,
+			"name": "Manual testing",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 802,
+			"name": "Mockups Design",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 749,
+			"name": "National Holiday",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 880,
+			"name": "No assigned tasks",
+			"categoryId": 21,
+			"categoryName": "Idle time",
+			"requireComments": false
+		},
+		{
+			"id": 801,
+			"name": "On call",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 977,
+			"name": "Online course",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": false
+		},
+		{
+			"id": 41754,
+			"name": "Other",
+			"categoryId": 25,
+			"categoryName": "Other",
+			"requireComments": false
+		},
+		{
+			"id": 1010,
+			"name": "Other - Absence",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": true
+		},
+		{
+			"id": 1009,
+			"name": "Other - Administrative",
+			"categoryId": 18,
+			"categoryName": "Administrative",
+			"requireComments": true
+		},
+		{
+			"id": 1011,
+			"name": "Other - Development",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": true
+		},
+		{
+			"id": 1017,
+			"name": "Other - Documentation",
+			"categoryId": 20,
+			"categoryName": "Documentation",
+			"requireComments": true
+		},
+		{
+			"id": 1016,
+			"name": "Other - Idle time",
+			"categoryId": 21,
+			"categoryName": "Idle time",
+			"requireComments": true
+		},
+		{
+			"id": 1012,
+			"name": "Other - Internal Process",
+			"categoryId": 22,
+			"categoryName": "Internal Process",
+			"requireComments": true
+		},
+		{
+			"id": 1000,
+			"name": "Other - Meetings (Client)",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": true
+		},
+		{
+			"id": 1013,
+			"name": "Other - Meetings (Internal)",
+			"categoryId": 24,
+			"categoryName": "Meetings (Internal)",
+			"requireComments": true
+		},
+		{
+			"id": 41963,
+			"name": "Other - Technical Interview",
+			"categoryId": 36,
+			"categoryName": "Technical Interview",
+			"requireComments": false
+		},
+		{
+			"id": 1018,
+			"name": "Other - Testing",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": true
+		},
+		{
+			"id": 1001,
+			"name": "Other - Training (Trainee)",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": true
+		},
+		{
+			"id": 1026,
+			"name": "Other - Training (Trainer)",
+			"categoryId": 28,
+			"categoryName": "Training (Trainer)",
+			"requireComments": true
+		},
+		{
+			"id": 41759,
+			"name": "Other CC",
+			"categoryId": 37,
+			"categoryName": "Code Challenge Guideline",
+			"requireComments": false
+		},
+		{
+			"id": 41764,
+			"name": "Other HR",
+			"categoryId": 38,
+			"categoryName": "Hacker Rank",
+			"requireComments": false
+		},
+		{
+			"id": 1019,
+			"name": "Other Task Category",
+			"categoryId": 25,
+			"categoryName": "Other",
+			"requireComments": true
+		},
+		{
+			"id": 753,
+			"name": "Paid Time Off",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 878,
+			"name": "Partial Assignment",
+			"categoryId": 21,
+			"categoryName": "Idle time",
+			"requireComments": false
+		},
+		{
+			"id": 791,
+			"name": "Peer review",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 748,
+			"name": "Personal Reasons",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 966,
+			"name": "Production Verification",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 21681,
+			"name": "Project hasn't started",
+			"categoryId": 21,
+			"categoryName": "Idle time",
+			"requireComments": false
+		},
+		{
+			"id": 978,
+			"name": "Project Onboarding (Trainee)",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": false
+		},
+		{
+			"id": 999,
+			"name": "Project Onboarding (Trainer)",
+			"categoryId": 28,
+			"categoryName": "Training (Trainer)",
+			"requireComments": false
+		},
+		{
+			"id": 16877,
+			"name": "Providing ambassador support",
+			"categoryId": 28,
+			"categoryName": "Training (Trainer)",
+			"requireComments": false
+		},
+		{
+			"id": 998,
+			"name": "Providing mentoring support",
+			"categoryId": 28,
+			"categoryName": "Training (Trainer)",
+			"requireComments": false
+		},
+		{
+			"id": 979,
+			"name": "Reading Documentation",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": false
+		},
+		{
+			"id": 16874,
+			"name": "Receiving ambassador support",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": false
+		},
+		{
+			"id": 976,
+			"name": "Receiving mentoring support",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": false
+		},
+		{
+			"id": 797,
+			"name": "Refactor",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 4417,
+			"name": "Registering hours in time tracker tools",
+			"categoryId": 18,
+			"categoryName": "Administrative",
+			"requireComments": false
+		},
+		{
+			"id": 971,
+			"name": "Regression testing",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 790,
+			"name": "Requirements analysis",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 876,
+			"name": "Research",
+			"categoryId": 20,
+			"categoryName": "Documentation",
+			"requireComments": false
+		},
+		{
+			"id": 785,
+			"name": "Research / Analysis",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 794,
+			"name": "Research and Learning",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 900,
+			"name": "Reviewing exams",
+			"categoryId": 22,
+			"categoryName": "Internal Process",
+			"requireComments": false
+		},
+		{
+			"id": 27055,
+			"name": "Rollback",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 981,
+			"name": "Self training",
+			"categoryId": 27,
+			"categoryName": "Training (Trainee)",
+			"requireComments": false
+		},
+		{
+			"id": 752,
+			"name": "Sick leave",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 968,
+			"name": "Smoke testing",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 786,
+			"name": "Spike",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 905,
+			"name": "Sprint Planning",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 906,
+			"name": "Sprint Retrospective",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 907,
+			"name": "Sprint Review / Demo",
+			"categoryId": 23,
+			"categoryName": "Meetings (Client)",
+			"requireComments": false
+		},
+		{
+			"id": 898,
+			"name": "Staffing Technical Interview",
+			"categoryId": 22,
+			"categoryName": "Internal Process",
+			"requireComments": false
+		},
+		{
+			"id": 798,
+			"name": "Support",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 939,
+			"name": "Team Meeting",
+			"categoryId": 24,
+			"categoryName": "Meetings (Internal)",
+			"requireComments": false
+		},
+		{
+			"id": 897,
+			"name": "Technical Screenings",
+			"categoryId": 22,
+			"categoryName": "Internal Process",
+			"requireComments": false
+		},
+		{
+			"id": 872,
+			"name": "Technical Writing",
+			"categoryId": 20,
+			"categoryName": "Documentation",
+			"requireComments": false
+		},
+		{
+			"id": 975,
+			"name": "Test case execution",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 784,
+			"name": "Test cases development",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 967,
+			"name": "Test Creation/design",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 972,
+			"name": "Testathon / UAT",
+			"categoryId": 26,
+			"categoryName": "Testing",
+			"requireComments": false
+		},
+		{
+			"id": 41750,
+			"name": "TI Completed",
+			"categoryId": 36,
+			"categoryName": "Technical Interview",
+			"requireComments": false
+		},
+		{
+			"id": 877,
+			"name": "Travel",
+			"categoryId": 21,
+			"categoryName": "Idle time",
+			"requireComments": false
+		},
+		{
+			"id": 805,
+			"name": "UI definition",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 17094,
+			"name": "Unable to work/Technical issues on hardware",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 754,
+			"name": "Unpaid Time Off",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 751,
+			"name": "Vacations",
+			"categoryId": 17,
+			"categoryName": "Absence",
+			"requireComments": false
+		},
+		{
+			"id": 777,
+			"name": "Weekly Progress Report",
+			"categoryId": 18,
+			"categoryName": "Administrative",
+			"requireComments": false
+		},
+		{
+			"id": 804,
+			"name": "Wireframes Design",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		},
+		{
+			"id": 789,
+			"name": "Writing User Stories",
+			"categoryId": 19,
+			"categoryName": "Development",
+			"requireComments": false
+		}
+	]
+}

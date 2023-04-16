@@ -1,0 +1,20 @@
+{
+  "name": "ai-timetracker",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "author": "Raul Bojalil",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch-polyfill": "^2.0.6",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^3.2.1"
+  }
+}

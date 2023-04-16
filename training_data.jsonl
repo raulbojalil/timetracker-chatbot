@@ -1,0 +1,118 @@
+{"prompt":"1:1 meeting with HRBP, 2hrs", "completion":" tt 2 937 \"1:1 meeting with HRBP\""}
+{"prompt":"1:1 meeting with Manager, 8 hours", "completion":" tt 8 938 \"1:1 meeting with Manager\""}
+{"prompt":"1-1 with client focal point, 8hrs", "completion":" tt 8 901 \"1-1 with client focal point\""}
+{"prompt":"Applicant asked for a reschedule, 6 hs", "completion":" tt 6 41752 \"Applicant asked for a reschedule\""}
+{"prompt":"Applicant asked for a reschedule CC, 6 hs", "completion":" tt 6 41757 \"Applicant asked for a reschedule CC\""}
+{"prompt":"Applicant asked for a reschedule HR for 9 h", "completion":" tt 9 41762 \"Applicant asked for a reschedule HR\""}
+{"prompt":"Applicant didn't show up for 1 hours", "completion":" tt 1 41751 \"Applicant didn't show up\""}
+{"prompt":"Applicant didn't show up CC 6 hrs", "completion":" tt 6 41756 \"Applicant didn't show up CC\""}
+{"prompt":"Applicant didn't show up HR, 5h", "completion":" tt 5 41761 \"Applicant didn't show up HR\""}
+{"prompt":"Architecture definition, 1 h", "completion":" tt 1 778 \"Architecture definition\""}
+{"prompt":"Backlog refinement meeting 3hrs", "completion":" tt 3 902 \"Backlog refinement meeting\""}
+{"prompt":"BairesDev asked for a reschedule 3 hours", "completion":" tt 3 41753 \"BairesDev asked for a reschedule\""}
+{"prompt":"BairesDev asked for a reschedule CC for 8hs", "completion":" tt 8 41758 \"BairesDev asked for a reschedule CC\""}
+{"prompt":"BairesDev asked for a reschedule HR 8hrs", "completion":" tt 8 41763 \"BairesDev asked for a reschedule HR\""}
+{"prompt":"Blocker removal meeting, 6hrs", "completion":" tt 6 903 \"Blocker removal meeting\""}
+{"prompt":"Bug Fixing, 9hrs", "completion":" tt 9 787 \"Bug Fixing\""}
+{"prompt":"CC Completed 1hs", "completion":" tt 1 41755 \"CC Completed\""}
+{"prompt":"Client Meeting, 6 hs", "completion":" tt 6 908 \"Client Meeting\""}
+{"prompt":"Client side training for 1hs", "completion":" tt 1 904 \"Client side training\""}
+{"prompt":"Code review, 9 h", "completion":" tt 9 779 \"Code review\""}
+{"prompt":"Coding 5 hrs", "completion":" tt 5 973 \"Coding\""}
+{"prompt":"Coding challenges review for 7h", "completion":" tt 7 899 \"Coding challenges review\""}
+{"prompt":"Compensation time for 3h", "completion":" tt 3 750 \"Compensation time\""}
+{"prompt":"Configuration for 2hs", "completion":" tt 2 795 \"Configuration\""}
+{"prompt":"Daily Meeting 1 h", "completion":" tt 1 909 \"Daily Meeting\""}
+{"prompt":"Daily Progress Report 5 h", "completion":" tt 5 776 \"Daily Progress Report\""}
+{"prompt":"DB Automation, 7hrs", "completion":" tt 7 792 \"DB Automation\""}
+{"prompt":"DB Maintenance 3 h", "completion":" tt 3 793 \"DB Maintenance\""}
+{"prompt":"Debug for 3 hs", "completion":" tt 3 800 \"Debug\""}
+{"prompt":"Demo preparation, 1hs", "completion":" tt 1 780 \"Demo preparation\""}
+{"prompt":"Deployment 2 hours", "completion":" tt 2 781 \"Deployment\""}
+{"prompt":"Design 2h", "completion":" tt 2 788 \"Design\""}
+{"prompt":"Diagrams drawing for 6 hours", "completion":" tt 6 873 \"Diagrams drawing\""}
+{"prompt":"Documentation reading for 6 hs", "completion":" tt 6 874 \"Documentation reading\""}
+{"prompt":"Documentation review for 9hrs", "completion":" tt 9 4418 \"Documentation review\""}
+{"prompt":"Documentation writing 4 hrs", "completion":" tt 4 875 \"Documentation writing\""}
+{"prompt":"Email revision/answering 1 hrs", "completion":" tt 1 775 \"Email revision/answering\""}
+{"prompt":"Environment configuration for 9hrs", "completion":" tt 9 969 \"Environment configuration\""}
+{"prompt":"Environment setup, 1hrs", "completion":" tt 1 782 \"Environment setup\""}
+{"prompt":"Exploratory 5hrs", "completion":" tt 5 965 \"Exploratory\""}
+{"prompt":"Features development, 7 hours", "completion":" tt 7 783 \"Features development\""}
+{"prompt":"Functional Testing 6h", "completion":" tt 6 970 \"Functional Testing\""}
+{"prompt":"Graphic Design for 7 hours", "completion":" tt 7 803 \"Graphic Design\""}
+{"prompt":"HR Completed 7 h", "completion":" tt 7 41760 \"HR Completed\""}
+{"prompt":"Integration 4 hrs", "completion":" tt 4 799 \"Integration\""}
+{"prompt":"Internal course for 6h", "completion":" tt 6 980 \"Internal course\""}
+{"prompt":"Internet issues, 9 hs", "completion":" tt 9 879 \"Internet issues\""}
+{"prompt":"KickOff Meeting, 3 hours", "completion":" tt 3 910 \"KickOff Meeting\""}
+{"prompt":"Library Upgrade 5 hrs", "completion":" tt 5 796 \"Library Upgrade\""}
+{"prompt":"Manual testing for 1hs", "completion":" tt 1 974 \"Manual testing\""}
+{"prompt":"Mockups Design, 7 hs", "completion":" tt 7 802 \"Mockups Design\""}
+{"prompt":"National Holiday, 8hrs", "completion":" tt 8 749 \"National Holiday\""}
+{"prompt":"No assigned tasks 9 hs", "completion":" tt 9 880 \"No assigned tasks\""}
+{"prompt":"On call 1 hrs", "completion":" tt 1 801 \"On call\""}
+{"prompt":"Online course for 5 hrs", "completion":" tt 5 977 \"Online course\""}
+{"prompt":"Other 6 hours", "completion":" tt 6 41754 \"Other\""}
+{"prompt":"Other - Absence, 9 h", "completion":" tt 9 1010 \"Other - Absence\""}
+{"prompt":"Other - Administrative 1hrs", "completion":" tt 1 1009 \"Other - Administrative\""}
+{"prompt":"Other - Development, 4h", "completion":" tt 4 1011 \"Other - Development\""}
+{"prompt":"Other - Documentation 7 h", "completion":" tt 7 1017 \"Other - Documentation\""}
+{"prompt":"Other - Idle time 8h", "completion":" tt 8 1016 \"Other - Idle time\""}
+{"prompt":"Other - Internal Process for 3 hours", "completion":" tt 3 1012 \"Other - Internal Process\""}
+{"prompt":"Other - Meetings (Client) 5h", "completion":" tt 5 1000 \"Other - Meetings (Client)\""}
+{"prompt":"Other - Meetings (Internal) for 9hrs", "completion":" tt 9 1013 \"Other - Meetings (Internal)\""}
+{"prompt":"Other - Technical Interview 9 hours", "completion":" tt 9 41963 \"Other - Technical Interview\""}
+{"prompt":"Other - Testing 3hrs", "completion":" tt 3 1018 \"Other - Testing\""}
+{"prompt":"Other - Training (Trainee) for 7 hours", "completion":" tt 7 1001 \"Other - Training (Trainee)\""}
+{"prompt":"Other - Training (Trainer), 2h", "completion":" tt 2 1026 \"Other - Training (Trainer)\""}
+{"prompt":"Other CC 1 h", "completion":" tt 1 41759 \"Other CC\""}
+{"prompt":"Other HR for 6 h", "completion":" tt 6 41764 \"Other HR\""}
+{"prompt":"Other Task Category for 8hs", "completion":" tt 8 1019 \"Other Task Category\""}
+{"prompt":"Paid Time Off 5 hs", "completion":" tt 5 753 \"Paid Time Off\""}
+{"prompt":"Partial Assignment, 7hrs", "completion":" tt 7 878 \"Partial Assignment\""}
+{"prompt":"Peer review for 9h", "completion":" tt 9 791 \"Peer review\""}
+{"prompt":"Personal Reasons 5 hs", "completion":" tt 5 748 \"Personal Reasons\""}
+{"prompt":"Production Verification, 9hs", "completion":" tt 9 966 \"Production Verification\""}
+{"prompt":"Project hasn't started 3 hs", "completion":" tt 3 21681 \"Project hasn't started\""}
+{"prompt":"Project Onboarding (Trainee) for 3 hs", "completion":" tt 3 978 \"Project Onboarding (Trainee)\""}
+{"prompt":"Project Onboarding (Trainer) for 5 h", "completion":" tt 5 999 \"Project Onboarding (Trainer)\""}
+{"prompt":"Providing ambassador support for 6 hs", "completion":" tt 6 16877 \"Providing ambassador support\""}
+{"prompt":"Providing mentoring support, 8hrs", "completion":" tt 8 998 \"Providing mentoring support\""}
+{"prompt":"Reading Documentation, 5hs", "completion":" tt 5 979 \"Reading Documentation\""}
+{"prompt":"Receiving ambassador support, 1hs", "completion":" tt 1 16874 \"Receiving ambassador support\""}
+{"prompt":"Receiving mentoring support 4hs", "completion":" tt 4 976 \"Receiving mentoring support\""}
+{"prompt":"Refactor 3 hs", "completion":" tt 3 797 \"Refactor\""}
+{"prompt":"Registering hours in time tracker tools for 4 hours", "completion":" tt 4 4417 \"Registering hours in time tracker tools\""}
+{"prompt":"Regression testing, 1 hours", "completion":" tt 1 971 \"Regression testing\""}
+{"prompt":"Requirements analysis 6 hours", "completion":" tt 6 790 \"Requirements analysis\""}
+{"prompt":"Research for 8 hours", "completion":" tt 8 876 \"Research\""}
+{"prompt":"Research / Analysis for 4 hrs", "completion":" tt 4 785 \"Research / Analysis\""}
+{"prompt":"Research and Learning for 6 hrs", "completion":" tt 6 794 \"Research and Learning\""}
+{"prompt":"Reviewing exams 1 hs", "completion":" tt 1 900 \"Reviewing exams\""}
+{"prompt":"Rollback 3 h", "completion":" tt 3 27055 \"Rollback\""}
+{"prompt":"Self training, 4 hours", "completion":" tt 4 981 \"Self training\""}
+{"prompt":"Sick leave 2 hours", "completion":" tt 2 752 \"Sick leave\""}
+{"prompt":"Smoke testing for 2hrs", "completion":" tt 2 968 \"Smoke testing\""}
+{"prompt":"Spike 7 hrs", "completion":" tt 7 786 \"Spike\""}
+{"prompt":"Sprint Planning 7 hrs", "completion":" tt 7 905 \"Sprint Planning\""}
+{"prompt":"Sprint Retrospective, 8h", "completion":" tt 8 906 \"Sprint Retrospective\""}
+{"prompt":"Sprint Review / Demo for 4h", "completion":" tt 4 907 \"Sprint Review / Demo\""}
+{"prompt":"Staffing Technical Interview, 7 h", "completion":" tt 7 898 \"Staffing Technical Interview\""}
+{"prompt":"Support 1hrs", "completion":" tt 1 798 \"Support\""}
+{"prompt":"Team Meeting 7 hs", "completion":" tt 7 939 \"Team Meeting\""}
+{"prompt":"Technical Screenings, 2 h", "completion":" tt 2 897 \"Technical Screenings\""}
+{"prompt":"Technical Writing, 8hrs", "completion":" tt 8 872 \"Technical Writing\""}
+{"prompt":"Test case execution, 3 h", "completion":" tt 3 975 \"Test case execution\""}
+{"prompt":"Test cases development, 9 hours", "completion":" tt 9 784 \"Test cases development\""}
+{"prompt":"Test Creation/design for 8hs", "completion":" tt 8 967 \"Test Creation/design\""}
+{"prompt":"Testathon / UAT, 8hs", "completion":" tt 8 972 \"Testathon / UAT\""}
+{"prompt":"TI Completed for 7 hours", "completion":" tt 7 41750 \"TI Completed\""}
+{"prompt":"Travel 2 hrs", "completion":" tt 2 877 \"Travel\""}
+{"prompt":"UI definition 8 hrs", "completion":" tt 8 805 \"UI definition\""}
+{"prompt":"Unable to work/Technical issues on hardware, 8hrs", "completion":" tt 8 17094 \"Unable to work/Technical issues on hardware\""}
+{"prompt":"Unpaid Time Off, 3 hrs", "completion":" tt 3 754 \"Unpaid Time Off\""}
+{"prompt":"Vacations 7hs", "completion":" tt 7 751 \"Vacations\""}
+{"prompt":"Weekly Progress Report 5 h", "completion":" tt 5 777 \"Weekly Progress Report\""}
+{"prompt":"Wireframes Design 9 h", "completion":" tt 9 804 \"Wireframes Design\""}
+{"prompt":"Writing User Stories 8hs", "completion":" tt 8 789 \"Writing User Stories\""}
